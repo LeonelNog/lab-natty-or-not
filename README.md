@@ -13,7 +13,7 @@ https://www.vidu.studio/
 Assistindo um video no Youtube de referëncia, utilizei algumas imagens da montagem do logotipo que criei para o atelie da minha esposa, e sugeri como queria que fosse a animaçao
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+- [Vídeo (Logo)](/exemplos/logoanimado.mp4)
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
